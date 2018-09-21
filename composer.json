@@ -1,0 +1,19 @@
+{
+    "name": "unifreak/rememberable-db",
+    "description": "Query caching for Laravel 5 DB",
+    "type": "library",
+    "require": {
+        "watson/rememberable": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fanghao",
+            "email": "fanghao90s@gmail.com"
+        }, 
+        {
+            "name": "zhangyongfeng",
+            "email": "zhangyongfeng1@xin.com"
+        }
+    ]
+}
