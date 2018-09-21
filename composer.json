@@ -6,6 +6,11 @@
         "watson/rememberable": "^2.0"
     },
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UniFreak\\RememberableDB\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "fanghao",

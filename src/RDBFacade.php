@@ -1,6 +1,6 @@
 <?php
 
-namespace Illuminate\Support\Facades;
+namespace UniFreak\RememberableDB;
 
 /**
  * @see \Illuminate\Database\DatabaseManager
