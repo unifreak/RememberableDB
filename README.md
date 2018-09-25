@@ -2,7 +2,7 @@
 
 # Install
 
-1. install composer package: run `composer require unifreak/rememberable-db'`
+1. install composer package: run `composer require unifreak/rememberable-db`
 2. register service provider: open `config/app.php`, add the following line into `providers` config entry:
 
     `UniFreak\RememberableDB\RDBServiceProvider::class,`

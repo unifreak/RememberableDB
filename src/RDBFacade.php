@@ -2,11 +2,13 @@
 
 namespace UniFreak\RememberableDB;
 
+use Illuminate\Support\Facades\Facade;
+
 /**
  * @see \Illuminate\Database\DatabaseManager
  * @see \Illuminate\Database\Connection
  */
-class RDB extends Facade
+class RDBFacade extends Facade
 {
     /**
      * Get the registered name of the component.
