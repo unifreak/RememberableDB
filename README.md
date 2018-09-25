@@ -20,6 +20,6 @@
 use RDB
 
 // you need to call table() first, then you can use the caching functions
-see <https://github.com/dwightwatson/rememberable>
+// see <https://github.com/dwightwatson/rememberable>
 RDB::table()->remember()....
 ```
